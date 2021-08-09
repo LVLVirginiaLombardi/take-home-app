@@ -1,1 +1,35 @@
-# take-home-app
+![Houlak: We develop first-class apps](https://houlak.com/assets/images/logos/hk-logo-color.svg)
+
+[![Twitter](https://img.shields.io/badge/twitter-@houlakdev-blue.svg?style=flat-square)](https://twitter.com/houlakdev)
+
+# Houlak Take-Home App Project
+
+## Propuesta
+
+Utilizando la API de Spotify, se deberá crear una app que permita buscar y listar artistas, ver información relevante de los mismos y listar sus canciones más escuchadas. 
+
+## Implementacíon
+### Home: Listar artistas
+Esta pantalla debe:
+ - Mostrar un empty state de Bievenida y un buscador.
+ - Tener un buscador que permita buscar únicamente por artista.
+ - Listar los artistas encontrados a partir de la búsqueda, ordenando por mayor popularidad primero. Se debe de mostrar al menos una foto y el nombre del artista.
+ - Permitir seleccionar/ir al detalle de un artista del listado.
+
+### Detalle de un Artista
+Esta pantalla debe:
+- Mostrar información del artista relevante. Por ejemplo: Foto de cubierta, nombre, género musical.
+- Listar (al menos) 5 de sus canciones, ordenando por más escuchadas primero.
+
+## API
+Los servicios a utilizar son los siguientes:
+
+| Servicio | Link |
+| ------ | ------ |
+| Get search item | https://developer.spotify.com/console/get-search-item |
+| Get artist | https://developer.spotify.com/console/get-artist|
+| Get artist top tracks | https://developer.spotify.com/console/get-artist-top-tracks |
+
+## Notas
+- Se valorará el buen uso de git (commits, branches, etc.)
+- Se pueden utilizar librerías extra
