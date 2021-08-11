@@ -30,13 +30,6 @@ Los servicios a utilizar son los siguientes:
 | Get artist | https://developer.spotify.com/console/get-artist|
 | Get artist top tracks | https://developer.spotify.com/console/get-artist-top-tracks |
 
-#### Alternativa para obtener Auth Token
-Si no tiene una cuenta de Spotify propia para obtener un OAuth token, puede realizar lo siguiente:
-1. Acceder a [Authorize Houlak Test Spotify](https://accounts.spotify.com/authorize?client_id=0e16d1a1ce0746bcbd50665a1f391bae&response_type=token&scope=&redirect_uri=https%3A%2F%2Fhoulak.com).  
-2. Aceptar los permisos solicitados. Una vez acepte será redireccionado al sitio de Houlak. 
-3. En la url del sitio de Houlak, aparecerá un parametro `access_token`. Puede utilizar ese token para consumir los servicios.
-
-
 ## Notas
 - Se valorará el buen uso de git (commits, branches, etc.)
 - Se pueden utilizar librerías de terceros
