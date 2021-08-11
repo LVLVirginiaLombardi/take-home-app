@@ -9,17 +9,17 @@
 Utilizando la [API de Spotify](https://developer.spotify.com/documentation/web-api/), se deberá crear una app que permita buscar y listar artistas, ver información relevante de los mismos y listar sus canciones más escuchadas. 
 
 ## Implementación
-### Listar artistas
+### Listado de artistas
 Esta pantalla debe:
  - Mostrar un empty state de Bievenida y un buscador.
- - Tener un buscador que permita buscar únicamente por artista.
- - Listar los artistas encontrados a partir de la búsqueda, ordenando por mayor popularidad primero. Se debe de mostrar al menos una foto y el nombre del artista.
+ - Tener un buscador que permita buscar **únicamente** por artista.
+ - Listar los artistas encontrados a partir de la búsqueda, ordenando por **mayor popularidad primero**. Se debe de mostrar al menos una foto y el nombre del artista.
  - Permitir seleccionar/ir al detalle de un artista del listado.
 
 ### Detalle de un Artista
 Esta pantalla debe:
-- Mostrar información del artista relevante. Por ejemplo: Foto de cubierta, nombre, género musical.
-- Listar las primeras 5 canciones más escuchadas.
+- Mostrar **información del artista relevante**. Por ejemplo: Foto de cubierta, nombre, género musical.
+- Listar las primeras **5 canciones más escuchadas**.
 
 ## API
 Los servicios a utilizar son los siguientes:
