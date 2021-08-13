@@ -1,4 +1,4 @@
-![Houlak: We develop first-class apps(https://houlak.com/assets/images/logos/hk-logo-color.svg)](https://houlak.com)
+[![Houlak: We develop first-class apps](https://houlak.com/assets/images/logos/hk-logo-color.svg)](https://houlak.com)
 
 [![Twitter](https://img.shields.io/badge/twitter-@houlakdev-blue.svg?style=flat-square)](https://twitter.com/houlakdev)
 
