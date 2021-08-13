@@ -22,7 +22,7 @@ Esta pantalla debe:
 - Listar las primeras **5 canciones más escuchadas**.
 
 ## API
-Los servicios a utilizar son los siguientes:
+Algunos servicios que te podrían servir:
 
 | Servicio | Link |
 | ------ | ------ |
