@@ -1,14 +1,14 @@
 //
-//  Take_Home_AppTests.swift
-//  Take_Home_AppTests
+//  Spotify_APITests.swift
+//  Spotify_APITests
 //
-//  Created by Virginia Lombardi Lopez on 12/5/22.
+//  Created by Virginia Lombardi Lopez on 17/5/22.
 //
 
 import XCTest
-@testable import Take_Home_App
+@testable import Spotify_API
 
-class Take_Home_AppTests: XCTestCase {
+class Spotify_APITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
