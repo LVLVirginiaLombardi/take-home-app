@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Take_Home_App
+//  Spotify_API
 //
-//  Created by Virginia Lombardi Lopez on 12/5/22.
+//  Created by Virginia Lombardi Lopez on 17/5/22.
 //
 
 import UIKit

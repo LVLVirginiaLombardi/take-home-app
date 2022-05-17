@@ -1,13 +1,13 @@
 //
-//  Take_Home_AppUITestsLaunchTests.swift
-//  Take_Home_AppUITests
+//  Spotify_APIUITestsLaunchTests.swift
+//  Spotify_APIUITests
 //
-//  Created by Virginia Lombardi Lopez on 12/5/22.
+//  Created by Virginia Lombardi Lopez on 17/5/22.
 //
 
 import XCTest
 
-class Take_Home_AppUITestsLaunchTests: XCTestCase {
+class Spotify_APIUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
